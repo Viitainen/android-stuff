@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#09a21c",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "name": "Napapiirin Reitti",
+        "id": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.74774742126465,
+            66.54693124140414
+          ],
+          [
+            25.733070373535156,
+            66.5415333086615
+          ],
+          [
+            25.739850997924805,
+            66.53828715193393
+          ],
+          [
+            25.74474334716797,
+            66.53599750234582
+          ],
+          [
+            25.75469970703125,
+            66.53531398400027
+          ],
+          [
+            25.762596130371094,
+            66.5373986562282
+          ],
+          [
+            25.76371192932129,
+            66.53972234717082
+          ],
+          [
+            25.755558013916016,
+            66.54136246887246
+          ],
+          [
+            25.764741897583008,
+            66.54467655127839
+          ],
+          [
+            25.758647918701172,
+            66.54706788271801
+          ],
+          [
+            25.748519897460938,
+            66.54723868330406
+          ],
+          [
+            25.753755569458008,
+            66.54207998809825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Napapiirin laavu",
+        "id": 7,
+        "rating": 2.5,
+        "condition": "good",
+        "visitCount": 500,
+        "description": "Napapiirin laavulla voi esim. paistaa makkaraa ja nauttia luonnosta.",
+        "details": "Puita on saatavilla."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.75521469116211,
+          66.54819514489749
+        ]
+      }
+    },
+        {
+          "type": "Feature",
+          "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "medium",
+            "marker-symbol": "airport",
+            "name": "Napapiirin laavu",
+            "id": 8,
+            "rating": 3.5,
+            "condition": "good",
+            "visitCount": 500,
+            "description": "Napapiirin laavulla voi esim. paistaa makkaraa ja nauttia luonnosta.",
+            "details": "Puita on saatavilla."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              25.75521469116111,
+              66.54819514489549
+            ]
+          }
+        }
+  ]
+}

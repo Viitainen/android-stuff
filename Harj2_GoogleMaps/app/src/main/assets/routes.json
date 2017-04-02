@@ -1,0 +1,31 @@
+{
+  "routes": [
+    {
+      "name": "Napapiirin Reitti",
+      "id": 7,
+      "filename": "map.geojson",
+      "length": 2.5,
+      "condition": "good",
+      "rating": 3.5,
+      "pointOfInterestCount": 2
+    },
+    {
+      "name": "Mahtava Luontopolku",
+      "id": 6,
+      "filename": "map2.geojson",
+      "length": 2.5,
+      "condition": "good",
+      "rating": 3.5,
+      "pointOfInterestCount": 3
+    },
+    {
+      "name": "Luontopolku",
+      "id": 5,
+      "filename": "map3.geojson",
+      "length": 3.5,
+      "condition": "good",
+      "rating": 2.5,
+      "pointOfInterestCount": 4
+    }
+  ]
+}

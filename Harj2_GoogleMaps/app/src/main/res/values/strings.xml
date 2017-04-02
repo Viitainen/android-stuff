@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GOGOGO!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">GOGOGO!</string>
+    <string name="ipsum">lorem ipsum</string>
+    <string name="pref_gamemode">Gamemode</string>
+    <string name="pref_gamemode_summ">You want to play?</string>
+    <string name="pref_track">GPS Tracking</string>
+    <string name="pref_track_summ">Do you want to show your route on the map?</string>
+    <string name="pref_notify_sidetrack">Sidetrack Notification</string>
+    <string name="pref_notify_sidetrack_summ">Do you want to informed when you are too far from the route?</string>
+    <string name="pref_notify_close">Point of Interest Notification</string>
+    <string name="pref_notify_close_summ">Do you want a notification when there is a point of interest close to you?</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+</resources>
